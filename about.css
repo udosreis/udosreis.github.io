@@ -152,7 +152,7 @@ header {
 #more-button {
     background: #2EC4B6;
     border-radius: 27px;
-    font-family: SFProText-Bold;
+    font-family: SFProText-Bold, "Avenir Next";
     font-size: 24px;
     color: #FFFFFF;
     letter-spacing: 1px;
@@ -190,7 +190,7 @@ header {
     margin-right: auto;
 }
 #dmTitle {
-    font-family: SFProText-Bold;
+    font-family: SFProText-Bold, "Avenir Next";
     font-size: 36px;
     color: #2C2C2C;
     letter-spacing: 2.5px;
@@ -205,20 +205,20 @@ header {
     margin-right: auto;
 }
 .ddetails .h1 {
-    font-family: SFProText-Medium;
+    font-family: SFProText-Medium, "Avenir Next";
     font-size: 30px;
     color: #2C2C2C;
     text-align: left;
 }
 .ddetails .h2 {
-    font-family: AvenirNext-Regular;
+    font-family: "Avenir Next";
     font-size: 18px;
     color: #2C2C2C;
     text-align: left;
     line-height: 26px;
 }
 .ddetails .h3 {
-    font-family: AvenirNext-Regular;
+    font-family: "Avenir Next";
     font-size: 14px;
     color: #2C2C2C;
     text-align: left;
