@@ -37,7 +37,7 @@ header {
     width: 100%
 }
 #name {
-    font-family: "Avenir Next Bold";
+    font-family: SFProText-Bold, "Avenir Next";
     font-size: 24px;
     color: #FFFFFF;
     text-align: left;
@@ -74,7 +74,7 @@ header {
     filter: invert(43%) sepia(100%) saturate(7486%) hue-rotate(344deg) brightness(94%) contrast(92%);
 }
 .next-page p {
-    font-family: "Avenir Next Bold";
+    font-family: SFProText-Bold, "Avenir Next";
     font-size: 14px;
     color: #FFFFFF;
     text-align: center;
@@ -130,7 +130,7 @@ header {
     transform: translate(0%, -70%)
 }
 .content .title {
-    font-family: "Avenir Next Bold";
+    font-family: SFProText-Bold, "Avenir Next";
     font-size: 96px;
     letter-spacing: 6.67px;
     text-shadow: 0 20px 40px rgba(0,0,0,0.50);
@@ -145,7 +145,7 @@ header {
     margin-bottom: 30px;
 }
 .content .subtitle {
-    font-family: SFProText-Bold;
+    font-family: SFProText-Bold, "Avenir Next";
     font-size: 36px;
     letter-spacing: 2.5px;
 }
