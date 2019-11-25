@@ -228,3 +228,36 @@ header {
     width: 100%;
     box-shadow: 0 60px 150px -20px rgba(0,0,0,0.50);
 }
+
+.skill {
+    
+}
+.skill-image {
+
+}
+.skill-title {
+    font-family: "Avenir Next";
+    font-size: 30px;
+    color: #2C2C2C;
+}
+.skill-len {
+    font-family: "Avenir Next";
+    font-size: 20px;
+    color: #2C2C2C;
+}
+.skill-bar {
+    background: #FFFFFF;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.50);
+    border-radius: 50%;
+    padding: 0;
+    display: inline-block;
+}
+.skill-bar-full {
+    background-image: linear-gradient(90deg, #2EC4B6 0%, #081F40 100%);
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
