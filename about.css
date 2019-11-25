@@ -255,7 +255,7 @@ header {
     display: inline-block;
 }
 .skill #bar-full {
-    background-image: linear-gradient(90deg, #2EC4B6 0%, #081F40 100%);
+    background-image: linear-gradient(90deg, #081F40 0%, #2EC4B6 100%);
     border-radius: 5.5px;
     width: 100%;
     height: 100%;
