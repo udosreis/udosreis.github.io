@@ -231,10 +231,11 @@ header {
 
 .skill {
     margin-bottom: 25px;
+    display: flex;
 }
 .skill #image {
     display: inline-block;
-    float: left;
+    height: 100%;
 }
 .skill #title {
     font-family: "Avenir Next";
