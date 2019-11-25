@@ -232,20 +232,20 @@ header {
 .skill {
     
 }
-.skill-image {
-
+.skill #image {
+    display: inline-block;
 }
-.skill-title {
+.skill #title {
     font-family: "Avenir Next";
     font-size: 30px;
     color: #2C2C2C;
 }
-.skill-len {
+.skill #len {
     font-family: "Avenir Next";
     font-size: 20px;
     color: #2C2C2C;
 }
-.skill-bar {
+.skill #bar {
     background: #FFFFFF;
     box-shadow: 0 2px 6px 0 rgba(0,0,0,0.50);
     border-radius: 50%;
@@ -254,7 +254,7 @@ header {
     width: 240px;
     display: inline-block;
 }
-.skill-bar-full {
+.skill #bar-full {
     background-image: linear-gradient(90deg, #2EC4B6 0%, #081F40 100%);
     border-radius: 50%;
     width: 100%;
