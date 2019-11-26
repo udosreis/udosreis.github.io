@@ -7,13 +7,13 @@
     <body>
         <div class="background"></div>
         <header>
-            <a href="#title-page" id="name">UGO DOS REIS</a>
+            <a href="index.html" id="name">UGO DOS REIS</a>
             <div class="wrapper-right">
                 <a href="https://github.com/udosreis" target="_blank"><img src="assets/svg/github_logo.svg"/></a>
                 <a href="https://www.linkedin.com/in/ugo-dosreis/" target="_blank"><img src="assets/svg/linked_in_logo.svg"/></a>
             </div>
             <div class="next-page">
-                <a href="">
+                <a href="#main-content">
                     <p id="np-indicator">WHO AM I</p>
                     <span></span>
                 </a>
@@ -25,12 +25,12 @@
                     <p class="title">About Me</p>
                     <span class="divisor"></span>
                     <p class="subtitle">I have a passion for coding,<br>designing, and innovating.</p>
-                    <a id="more-button">Learn More</a>
+                    <a id="more-button" href="#main-content">Learn More</a>
                 </div>
             </div>
         </div>
 
-        <div class="main-content">
+        <div class="main-content" id="main-content">
             <div class="slide white" id="who-page">
                 <div class="flex">
                     <div class="dtitle">
@@ -98,6 +98,17 @@
                             </div>
                             <div class="skill">
                                 <div id="imaged">
+                                    <img src="assets/images/icons/java.png" id="image"/>
+                                </div>
+                                <div>
+                                    <p><b  id="title">Java</b> <span id="len">2 years</span></p>
+                                    <div id="bar">
+                                        <div id="bar-full" style="width:65%"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill">
+                                <div id="imaged">
                                     <img src="assets/images/icons/swift.png" id="image"/>
                                 </div>
                                 <div>
@@ -118,11 +129,22 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="skill">
+                                <div id="imaged">
+                                    <img src="assets/images/icons/python.png" id="image"/>
+                                </div>
+                                <div>
+                                    <p><b  id="title">Python</b> <span id="len">4 months</span></p>
+                                    <div id="bar">
+                                        <div id="bar-full" style="width:30%"></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <script type="text/javascript" src="index.js"></script>
+       <!-- <script type="text/javascript" src="index.js"></script>-->
     </body>
 </html>
