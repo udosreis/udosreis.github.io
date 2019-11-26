@@ -177,7 +177,7 @@ header {
 }
 .flex {
     display: flex;
-    justify-content: space-around;
+    justify-content: left;
     flex-wrap: wrap;
     margin-top: 75px;
     width: 100%;
@@ -234,11 +234,16 @@ header {
     display: flex;
     height: 68px;
 }
+.skill #imaged {
+    width: 75px;
+    margin-right: 10px;
+}
 .skill #image {
-    display: inline-block;
+    display: block;
     height: 68px;
     width: auto;
-    margin-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .skill #title {
     font-family: "Avenir Next";
@@ -262,7 +267,6 @@ header {
 .skill #bar-full {
     background-image: linear-gradient(90deg, #081F40 0%, #2EC4B6 100%);
     border-radius: 5.5px;
-    width: 100%;
     height: 100%;
     margin: 0;
     padding: 0;
