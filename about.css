@@ -111,7 +111,6 @@ header {
 }
 .white {
     height: auto;
-    min-height: 100%;
     width: 100%;
 }
 .content {
@@ -180,8 +179,8 @@ header {
     justify-content: left;
     flex-wrap: wrap;
     margin-top: 75px;
+    padding-bottom: 75px;
     width: 100%;
-    margin-bottom: 75px;
 }
 .dtitle {
     width: 40%;
@@ -272,3 +271,4 @@ header {
     padding: 0;
     display: inline-block;
 }
+
