@@ -15,6 +15,7 @@ a {
 body {
     background: #081F40;
     overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 .background {
     position: fixed;
@@ -38,7 +39,6 @@ header {
     width: 100%
 }
 #name {
-    font-family: SFProText-Bold, "Avenir Next";
     font-size: 24px;
     color: #FFFFFF;
     text-align: left;
@@ -75,7 +75,6 @@ header {
     filter: invert(43%) sepia(100%) saturate(7486%) hue-rotate(344deg) brightness(94%) contrast(92%);
 }
 .next-page p {
-    font-family: SFProText-Medium, "Avenir Next";
     font-size: 14px;
     color: #FFFFFF;
     text-align: center;
@@ -161,7 +160,6 @@ header {
     transform: translate(0%, -70%)
 }
 .content .title {
-    font-family: SFProText-Bold, "Avenir Next";
     font-size: 96px;
     letter-spacing: 6.67px;
     text-shadow: 0 20px 40px rgba(0,0,0,0.50);
@@ -176,14 +174,12 @@ header {
     margin-bottom: 30px;
 }
 .content .subtitle {
-    font-family: SFProText-Bold, "Avenir Next";
     font-size: 36px;
     letter-spacing: 2.5px;
 }
 #more-button {
     background: #2EC4B6;
     border-radius: 27px;
-    font-family: SFProText-Bold, "Avenir Next";
     font-size: 24px;
     color: #FFFFFF;
     letter-spacing: 1px;
@@ -227,7 +223,6 @@ header {
         font-size: 86px;
     }
     .content .subtitle {
-        font-family: SFProText-Bold, "Avenir Next";
         font-size: 36px;
         letter-spacing: 2.5px;
     }
@@ -278,7 +273,6 @@ header {
         font-size: 72px;
     }
     .content .subtitle {
-        font-family: SFProText-Bold, "Avenir Next";
         font-size: 32px;
         letter-spacing: 2.5px;
     }
@@ -326,7 +320,6 @@ header {
         font-size: 32px;
     }
     .content .subtitle {
-        font-family: SFProText-Bold, "Avenir Next";
         font-size: 24px;
         letter-spacing: 2.5px;
     }
