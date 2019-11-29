@@ -1,4 +1,5 @@
 currentPage = 0
+window.onload = scrollPosition()
 function scrollPosition() {
     var height = window.innerHeight
     var distScrolled = document.body.scrollTop
