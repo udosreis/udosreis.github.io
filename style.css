@@ -232,9 +232,9 @@ header {
     .wrapper-right img {
         height: 20px;
     }
-    .more-button {
+    #more-button {
         font-size: 20px;
-        width: 135px;
+        width: 145px;
         height: 47px;
         line-height: 47px;
     }
@@ -282,9 +282,9 @@ header {
     .wrapper-right img {
         height: 18px;
     }
-    .more-button {
+    #more-button {
         font-size: 16px;
-        width: 100px;
+        width: 120px;
         height: 35px;
         line-height: 35px;
     }
@@ -332,7 +332,7 @@ header {
     .wrapper-right img {
         height: 12px;
     }
-    .more-button {
+    #more-button {
         font-size: 14px;
         width: 100px;
         height: 35px;
