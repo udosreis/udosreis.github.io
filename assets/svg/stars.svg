@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1013px" height="900px" viewBox="0 0 1013 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Stars</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aboutPage" transform="translate(0.000000, -1.000000)" fill="#333333">
+            <g id="BackgroundCity" transform="translate(-44.000000, 1.000000)">
+                <g id="Stars" transform="translate(44.000000, 0.000000)">
+                    <g id="Oval">
+                        <circle style="mix-blend-mode: luminosity;" cx="344.5" cy="97.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="674.5" cy="304.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="789.5" cy="151.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="741.5" cy="239.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="657.5" cy="172.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="542.5" cy="332.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="190.5" cy="151.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="5.5" cy="444.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="542.5" cy="72.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="265.5" cy="332.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="448.5" cy="218.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="694.5" cy="50.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="410.5" cy="5.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="1007.5" cy="298.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="769.5" cy="391.5" r="5.5"></circle>
+                    </g>
+                    <g transform="translate(506.500000, 675.000000) scale(-1, -1) translate(-506.500000, -675.000000) translate(0.000000, 450.000000)" id="Oval">
+                        <circle style="mix-blend-mode: luminosity;" cx="344.5" cy="97.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="674.5" cy="304.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="789.5" cy="151.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="741.5" cy="239.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="657.5" cy="172.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="542.5" cy="332.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="190.5" cy="151.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="5.5" cy="444.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="542.5" cy="72.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="265.5" cy="332.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="448.5" cy="218.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="694.5" cy="50.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="410.5" cy="5.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="1007.5" cy="298.5" r="5.5"></circle>
+                        <circle style="mix-blend-mode: luminosity;" cx="769.5" cy="391.5" r="5.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1024 556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>BackgroundBuildings</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#333333" offset="0%"></stop>
+            <stop stop-color="#2E2E2E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aboutPage" transform="translate(0.000000, -468.000000)">
+            <g id="BackgroundCity" transform="translate(-44.000000, 1.000000)">
+                <g id="BackgroundBuildings" transform="translate(0.000000, 274.000000)">
+                    <g id="Building2-+-Building1-+-Building4-+-Building3-+-Building5-+-Rectangle-+-Building6-+-Building9-+-Building8-+-Building7-Mask" transform="translate(40.000000, 193.000000)">
+                        <polygon id="Building2" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="267.096386 195.549604 307.734644 195.549604 343.786145 113.439759 381.037675 195.549604 420.475904 195.549604 420.475904 885.545862 267.096386 885.545862"></polygon>
+                        <g id="Building1" transform="translate(0.349398, 0.072289)">
+                            <polygon id="Rectangle" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="0 37.1528329 100.03012 0 100.03012 773.566265 0 773.566265"></polygon>
+                            <polygon id="Rectangle" fill="#333333" style="mix-blend-mode: luminosity;" points="99.3614458 0 199.391566 29.869988 199.391566 866.927711 99.3614458 866.927711"></polygon>
+                        </g>
+                        <g id="Building4" transform="translate(780.584337, 0.072289)">
+                            <rect id="Rectangle" fill="#2E2E2E" style="mix-blend-mode: luminosity;" x="86.6927711" y="0" width="6.6686747" height="60.0180723" rx="3.33433735"></rect>
+                            <ellipse id="Oval" fill="url(#linearGradient-1)" style="mix-blend-mode: luminosity;" cx="86.6927711" cy="120.036145" rx="53.3493976" ry="66.686747"></ellipse>
+                            <polygon id="Rectangle" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="0 142.250213 86.6927711 106.698795 86.6927711 846.921687 0 846.921687"></polygon>
+                            <polygon id="Rectangle" fill="#333333" style="mix-blend-mode: luminosity;" points="86.6927711 106.03012 173.385542 134.751263 173.385542 939.614458 86.6927711 939.614458"></polygon>
+                        </g>
+                        <g id="Building3" transform="translate(493.831325, 233.475904)">
+                            <polygon id="Rectangle" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="0 32.9891534 126.704819 0 126.704819 686.873494 0 686.873494"></polygon>
+                            <polygon id="Rectangle" fill="#333333" style="mix-blend-mode: luminosity;" points="126.704819 0 200.060241 23.6662212 200.060241 686.873494 126.704819 686.873494"></polygon>
+                            <polygon id="Rectangle" fill="#333333" style="mix-blend-mode: luminosity;" points="200.060241 106.698795 273.415663 130.365016 273.415663 793.572289 200.060241 793.572289"></polygon>
+                            <polygon id="Rectangle" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="113.36747 137.125684 200.060241 106.698795 200.060241 740.222892 113.36747 740.222892"></polygon>
+                        </g>
+                        <g id="Building5" transform="translate(220.415663, 353.512048)" fill="#363636">
+                            <rect id="Rectangle" style="mix-blend-mode: luminosity;" x="0" y="46.6807229" width="140.042169" height="546.831325"></rect>
+                            <circle id="Oval" style="mix-blend-mode: luminosity;" cx="70.0210843" cy="60.0180723" r="60.0180723"></circle>
+                        </g>
+                        <polygon id="Rectangle" fill="#363636" style="mix-blend-mode: luminosity;" points="973.975904 237.118179 992.870482 237.118179 992.870482 206.801205 1073.06508 206.801205 1073.06508 237.118179 1087.34337 237.118179 1087.34337 867.275126 973.975904 867.275126"></polygon>
+                        <polygon id="Building6" fill="#414141" style="mix-blend-mode: luminosity;" points="920.626506 345.961367 1007.34036 345.961367 1007.34036 286.825301 1074.00602 286.825301 1074.00602 712.738475 920.626506 712.738475"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
