@@ -16,15 +16,6 @@ a {
     text-decoration: none;
     color: #FFFFFF;
 }
-.white {
-    color: #FFFFFF;
-}
-.red {
-    background: #E71D36;
-}
-.blue {
-    background: #2EC4B6;
-}
 .background {
     position: absolute;
     bottom: 0;
@@ -133,6 +124,7 @@ header {
     top: 0;
     left: 0;
     position: relative;
+    display: block;
     height: 100%;
     overflow-y: scroll;
 }
@@ -282,22 +274,23 @@ header {
 .skill .len {
     font-size: 20px;
 }
-.skill .bar {
+.bar {
     background: #FFFFFF;
     box-shadow: 0 2px 6px 0 rgba(0,0,0,0.50);
     border-radius: 5.5px;
     padding: 0;
+    margin: 0;
     height: 11px;
     width: 240px;
     display: inline-block;
 }
-.skill .bar-full {
+.bar .bar-full {
     background-image: linear-gradient(90deg, #081F40 0%, #2EC4B6 100%);
     border-radius: 5.5px;
     height: 100%;
     margin: 0;
     padding: 0;
-    display: inline-block;
+    display: block;
 }
 
 
@@ -362,7 +355,7 @@ header {
     .skill .len {
         font-size: 18px;
     }
-    .skill .bar {
+    .bar {
         height: 8px;
         width: 180px;
     }
@@ -436,7 +429,7 @@ header {
     .skill .len {
         font-size: 14px;
     }
-    .skill .bar {
+    .bar {
         height: 11px;
         width: 240px;
     }
@@ -514,7 +507,7 @@ header {
     .skill .len {
         font-size: 12px;
     }
-    .skill .bar {
+    .bar {
         height: 8px;
         width: 180px;
     }
