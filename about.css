@@ -276,7 +276,7 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
-.skill #title {
+.skill .titles {
     font-size: 30px;
 }
 .skill .len {
@@ -356,7 +356,7 @@ header {
     .skill .image {
         height: 50px;
     }
-    .skill #title {
+    .skill .titles {
         font-size: 26px;
     }
     .skill .len {
@@ -430,7 +430,7 @@ header {
     .skill .image {
         height: 40px;
     }
-    .skill #title {
+    .skill .titles {
         font-size: 24px;
     }
     .skill .len {
@@ -508,7 +508,7 @@ header {
     .skill .image {
         height: 35px;
     }
-    .skill #title {
+    .skill .titles {
         font-size: 20px;
     }
     .skill .len {
