@@ -189,7 +189,7 @@ header {
 .content .title {
     font-size: 96px;
     letter-spacing: 6.67px;
-    text-shadow: 0 20px 40px rgba(0,0,0,0.50);
+    text-shadow: 0 20px 40px rgba(0,0,0,0.30);
 }
 .content .divisor {
     display: block;

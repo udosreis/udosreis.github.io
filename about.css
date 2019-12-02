@@ -248,7 +248,7 @@ header {
     width: 100%;
 }
 #shdimg {
-    box-shadow: 0 60px 150px -20px rgba(0,0,0,0.50);
+    box-shadow: 0 60px 150px -20px rgba(0,0,0,0.30);
 }
 
 .skill {
