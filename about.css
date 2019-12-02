@@ -222,7 +222,7 @@ header {
     color: #2C2C2C;
     margin-bottom: 20px;
 }
-#dmTitle {
+.dmTitle {
     font-size: 36px;
     letter-spacing: 2.5px;
     text-align: left;
@@ -265,11 +265,11 @@ header {
     display: flex;
     height: 68px;
 }
-.skill #imaged {
+.skill .imaged {
     width: 75px;
     margin-right: 10px;
 }
-.skill #image {
+.skill .image {
     display: block;
     height: 68px;
     width: auto;
@@ -279,10 +279,10 @@ header {
 .skill #title {
     font-size: 30px;
 }
-.skill #len {
+.skill .len {
     font-size: 20px;
 }
-.skill #bar {
+.skill .bar {
     background: #FFFFFF;
     box-shadow: 0 2px 6px 0 rgba(0,0,0,0.50);
     border-radius: 5.5px;
@@ -291,7 +291,7 @@ header {
     width: 240px;
     display: inline-block;
 }
-.skill #bar-full {
+.skill .bar-full {
     background-image: linear-gradient(90deg, #081F40 0%, #2EC4B6 100%);
     border-radius: 5.5px;
     height: 100%;
@@ -331,7 +331,7 @@ header {
         width: 40%;
         max-width: 500px;
     }
-    #dmTitle {
+    .dmTitle {
         font-size: 30px;
     }
     .ddetails {
@@ -350,19 +350,19 @@ header {
     .skill {
         height: 50px;
     }
-    .skill #imaged {
+    .skill .imaged {
         width: 60px;
     }
-    .skill #image {
+    .skill .image {
         height: 50px;
     }
     .skill #title {
         font-size: 26px;
     }
-    .skill #len {
+    .skill .len {
         font-size: 18px;
     }
-    .skill #bar {
+    .skill .bar {
         height: 8px;
         width: 180px;
     }
@@ -405,7 +405,7 @@ header {
         width: 40%;
         max-width: 400px;
     }
-    #dmTitle {
+    .dmTitle {
         font-size: 30px;
     }
     .ddetails {
@@ -424,19 +424,19 @@ header {
     .skill {
         height: 40px;
     }
-    .skill #imaged {
+    .skill .imaged {
         width: 55px;
     }
-    .skill #image {
+    .skill .image {
         height: 40px;
     }
     .skill #title {
         font-size: 24px;
     }
-    .skill #len {
+    .skill .len {
         font-size: 14px;
     }
-    .skill #bar {
+    .skill .bar {
         height: 11px;
         width: 240px;
     }
@@ -483,7 +483,7 @@ header {
         width: 80%;
         max-width: 400px;
     }
-    #dmTitle {
+    .dmTitle {
         font-size: 24px;
     }
     .ddetails {
@@ -502,19 +502,19 @@ header {
     .skill {
         height: 35px;
     }
-    .skill #imaged {
+    .skill .imaged {
         width: 50px;
     }
-    .skill #image {
+    .skill .image {
         height: 35px;
     }
     .skill #title {
         font-size: 20px;
     }
-    .skill #len {
+    .skill .len {
         font-size: 12px;
     }
-    .skill #bar {
+    .skill .bar {
         height: 8px;
         width: 180px;
     }
