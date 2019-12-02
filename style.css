@@ -80,11 +80,6 @@ header {
     text-align: right;
     position: relative;
 }
-.wrapper-right svg {
-    height: 24px;
-    margin-left: 5px;
-    margin-right: 5px;
-}
 .wrapper-right a:hover {
     filter: invert(43%) sepia(100%) saturate(7486%) hue-rotate(344deg) brightness(94%) contrast(92%);
     transition: .3s;
