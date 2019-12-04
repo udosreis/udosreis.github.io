@@ -203,7 +203,7 @@ header {
     justify-content: left;
     flex-wrap: wrap;
     margin-top: 75px;
-    padding-bottom: 75px;
+    padding-bottom: 25px;
     width: 100%;
 }
 .dtitle {
