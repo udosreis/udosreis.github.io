@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2334px" height="2040px" viewBox="0 0 2334 2040" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-77.000000, -120.000000)">
+            <g id="Group" transform="translate(77.000000, 123.000000)">
+                <g id="Building3" transform="translate(0.000000, 297.000000)">
+                    <polygon id="Path-8" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="0 1792 0 35.6760665 229 0 229 1792"></polygon>
+                    <polygon id="Path-10" fill="#333333" style="mix-blend-mode: luminosity;" points="229 0 344 93.8352317 344 1792 229 1792"></polygon>
+                </g>
+                <g id="Building5" transform="translate(879.000000, 104.000000)">
+                    <g id="Combined-Shape" transform="translate(0.000000, 305.000000)">
+                        <polygon id="Mask" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="323.866291 1730.63951 323.866291 0 -2.27373675e-13 0 -2.27373675e-13 508.407852 86 508.407852 157 535.281219 157 555 195 565.998824 195 1730.63951"></polygon>
+                        <path d="M162,18 L317,134.792509 L162,273 L7,134.792509 L162,18 Z M162,273 L317,389.792509 L162,528 L7,389.792509 L162,273 Z M162,528 L317,644.792509 L162,783 L7,644.792509 L162,528 Z M162,784 L317,900.792509 L162,1039 L7,900.792509 L162,784 Z M162,1039 L317,1155.79251 L162,1294 L7,1155.79251 L162,1039 Z M162,1294 L317,1410.79251 L162,1549 L7,1410.79251 L162,1294 Z M162,1550 L317,1666.79251 L162,1805 L7,1666.79251 L162,1550 Z" stroke="#E8E8E8" stroke-width="9"></path>
+                    </g>
+                    <g id="Combined-Shape" transform="translate(323.860000, 305.000000)">
+                        <polygon id="Mask" fill="#333333" style="mix-blend-mode: luminosity;" points="0 0 137 93.5660915 137 1731.31606 0 1731.31606"></polygon>
+                        <path d="M65.1347843,1549.02262 L131.866457,1672.20253 L64.64,1805 L4.14,1665.57885 L64.6216055,1549.95761 L4.14,1410.57885 L64.6216055,1294.95761 L4.14,1155.57885 L64.6216055,1039.95761 L4.14,900.578854 L65.1225325,784 L131.866457,907.202535 L65.1347843,1039.02262 L131.866457,1162.20253 L65.1347843,1294.02262 L131.866457,1417.20253 L65.1347843,1549.02262 Z M65.1347843,528.022616 L131.866457,651.202535 L64.64,784 L4.14,644.578854 L64.6216055,528.95761 L4.14,389.578854 L65.1225325,273 L131.866457,396.202535 L65.1347843,528.022616 Z M4.59886117,135.217313 L74.662386,58.6815607 L131.565953,153.742651 L64.64,273 L4.59886117,135.217313 Z" stroke="#E8E8E8" stroke-width="8"></path>
+                    </g>
+                    <path d="M128,1.15334195 L128,304.80973" id="Path-17" stroke="#333333" stroke-width="8" stroke-linecap="round"></path>
+                    <path d="M373,53.1533419 L373,356.80973" id="Path-17" stroke="#333333" stroke-width="8" stroke-linecap="round"></path>
+                </g>
+                <g id="Building7" transform="translate(470.000000, 0.000000)">
+                    <path d="M32,463 L249,463 C249,320.966974 249,241.413764 249,224.340371 C249,164.505636 200.422895,116 140.5,116 C80.5771046,116 32,164.505636 32,224.340371 C32,264.230194 32,343.783404 32,463 Z" id="Oval" fill="#333333" style="mix-blend-mode: luminosity;"></path>
+                    <polygon id="Path-20" fill="#333333" style="mix-blend-mode: luminosity;" points="140 198 283 257.393581 283 2086.76195 140 2088"></polygon>
+                    <polygon id="Path-21" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="140 198 0 262.073732 0 2086 140 2086"></polygon>
+                    <path d="M140.5,0 L140.5,132" id="Path-22" stroke="#333333" stroke-width="5" stroke-linecap="round"></path>
+                </g>
+                <g id="Building8" transform="translate(1669.000000, 326.000000)">
+                    <polygon id="Path-13" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="188 1765 188 153 0 178.959639 0 1760"></polygon>
+                    <polygon id="Path-15" fill="#333333" style="mix-blend-mode: luminosity;" points="188 153 343 240.315631 343 1765 188 1765"></polygon>
+                    <polygon id="Path-23" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="188 0 188 153.039667 0 179"></polygon>
+                    <polygon id="Path-24" fill="#333333" style="mix-blend-mode: luminosity;" points="188 0 343 240.315631 188 153.039667"></polygon>
+                </g>
+                <g id="Building2" transform="translate(683.000000, 917.000000)">
+                    <polygon id="Path-7" fill="#333333" style="mix-blend-mode: luminosity;" points="282 0 353 27.281219 353 47 282 38.0117574"></polygon>
+                    <polygon id="Path-5" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="54.5450181 38.3584805 54.5450181 0 281.894508 0 281.894508 38.3584805 321 38.3584805 321 1173 -3.73215084e-13 1173 13.1313384 38.3584805"></polygon>
+                    <polygon id="Path-6" fill="#333333" style="mix-blend-mode: luminosity;" points="321 39 391 57.9988237 391 1174 321 1174"></polygon>
+                </g>
+                <g id="Building1" transform="translate(119.000000, 725.000000)">
+                    <polygon id="Path-2" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="25.2974822 43.6185395 0 1366 359 1366 359 206.784249 234.817314 226.188421 234.817314 0"></polygon>
+                    <polygon id="Path-3" fill="#333333" style="mix-blend-mode: luminosity;" points="359 207 492 265.102123 492 1366 359 1366"></polygon>
+                    <polygon id="Path-4" fill="#333333" style="mix-blend-mode: luminosity;" points="234.817314 0 354 33.2878438 354 207.564346 234.817314 226.188421"></polygon>
+                </g>
+                <g id="Building4" transform="translate(1928.000000, 601.000000)">
+                    <polygon id="Path-12" fill="#333333" style="mix-blend-mode: luminosity;" points="196.71468 0 0 85.6166961 2.7873872e-13 1489 393 1489 393 85.6166961"></polygon>
+                    <path d="M196.60967,0 C195.857025,126.09057 202.789191,272.907828 217.40617,440.451773 C230.136024,586.364968 257.993364,774.310568 287.924678,909.921168 C309.546041,1007.88165 335.649128,1076.1373 341.73586,1092.91452 C356.248696,1132.91713 383.038142,1251.23829 393.168381,1312.75229 C397.815051,1340.96834 403.425591,1399.71757 410,1489 L146.745343,1489 C136.568216,1422.08549 126.101313,1370.74531 115.344635,1334.97946 C100.803216,1286.62938 62.3550045,1177.03274 0,1006.18953 L2.4359775e-14,85.9100326 L196.60967,0 Z" id="Path-11" fill="#2E2E2E" style="mix-blend-mode: luminosity;"></path>
+                </g>
+                <g id="Building6" transform="translate(1379.000000, 772.000000)">
+                    <g>
+                        <polygon id="Path-18" fill="#2E2E2E" style="mix-blend-mode: luminosity;" points="196.067352 1318 196.067352 348 0 128 0 1318"></polygon>
+                        <polygon id="Path-18" fill="#333333" style="mix-blend-mode: luminosity;" transform="translate(293.533676, 723.000000) scale(-1, 1) translate(-293.533676, -723.000000) " points="391 1318 391 348 196.067352 128 196.067352 1318"></polygon>
+                        <polygon id="Path-19" fill="#383838" style="mix-blend-mode: luminosity;" points="0 128 195.567525 0 391 127.893458 196.067352 348"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
