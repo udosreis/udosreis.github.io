@@ -4,7 +4,6 @@ function animBckg() {
     var date = new Date();
     var current_hour = 0
     current_hour = date.getHours()
-    current_hour = 15
     if (current_hour < 5) {
         document.getElementsByClassName("backgroundc")[0].style.backgroundImage = "radial-gradient(closest-side at 42% 38%, #081F40 20%, #041022 80%)"
         document.getElementsByClassName("background2")[0].style.opacity = 1
@@ -14,7 +13,7 @@ function animBckg() {
         document.getElementsByClassName("background2")[0].style.opacity = 0
     }
     else if (current_hour < 17) {
-        document.getElementsByClassName("backgroundc")[0].style.backgroundImage = "linear-gradient(0deg, #1488CC 0%, #2B32B2 100%)"
+        document.getElementsByClassName("backgroundc")[0].style.backgroundImage = "linear-gradient(0deg, #0064FF 0%, #00D0FF 100%)"
         document.getElementsByClassName("background2")[0].style.opacity = 0
     }
     else if (current_hour < 19) {
