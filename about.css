@@ -292,6 +292,15 @@ header {
     padding: 0;
     display: block;
 }
+.project-links svg {
+        height: 24px;
+        margin-left: 5px;
+        margin-right: 5px;
+}
+.project-links a:hover {
+    filter: invert(43%) sepia(100%) saturate(7486%) hue-rotate(344deg) brightness(94%) contrast(92%);
+    transition: .3s;
+}
 
 
 @media only screen and (max-width: 1280px) {
