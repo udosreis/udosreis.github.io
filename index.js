@@ -1,6 +1,7 @@
 let pages = ["ABOUT ME","PROJECTS","CONTACT ME"]
 let pagesId = ["about-page","project-page","contact-page"]
 currentPage = 0
+var time = Date.now();
 
 function changePage(num, page) {
     document.getElementById(page).scrollIntoView()
@@ -23,6 +24,7 @@ function changeSideBar(num) {
 }
 
 function scrollPosition() {
+    console.log("YEET")
     var target = document.getElementsByClassName("all-content")[0]
     var height = target.scrollHeight
     var perScrolled = target.scrollTop/height * 100
@@ -37,5 +39,12 @@ function scrollPosition() {
     }
     else {
         changeSideBar(3)
+    }
+}
+
+function throttle(wait) {
+    if ((time + wait - Date.now()) < 0) {
+        scrollPosition();
+        time = Date.now();
     }
 }
