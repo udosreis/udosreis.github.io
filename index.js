@@ -24,7 +24,6 @@ function changeSideBar(num) {
 }
 
 function scrollPosition() {
-    console.log("YEET")
     var target = document.getElementsByClassName("all-content")[0]
     var height = target.scrollHeight
     var perScrolled = target.scrollTop/height * 100
