@@ -26,7 +26,7 @@ function animBckg() {
     }
 }
 
-//The following was tekn from: Copyright (c) 2019 by Fabio Ottaviani (https://codepen.io/supah/pen/RrzREx)
+//The following was taken from: Copyright (c) 2019 by Fabio Ottaviani (https://codepen.io/supah/pen/RrzREx)
 var lFollowX = 0,
     lFollowY = 0,
     x = 0,

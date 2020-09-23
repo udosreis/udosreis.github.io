@@ -5,6 +5,7 @@ var time = Date.now();
 
 function changePage(num, page) {
     document.getElementById(page).scrollIntoView()
+    currentPage = num
 }
 
 function changeSideBar(num) {
