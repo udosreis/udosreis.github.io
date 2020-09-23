@@ -116,17 +116,38 @@ header {
     background: #FFFFFF;
 }
 
+@keyframes shrink {
+    from {
+        top: 100%;
+    }
+    to {
+        top: 0;
+    }
+  }
+  @keyframes fadeout {
+    from {
+        opacity: 1;
+        height: 100%;
+    }
+    to {
+        opacity: 0;
+        height: 10%;
+    }
+  }
+
 /*Content*/
 .main-content {
     background: #FFFFFF;
+    animation: 0.5s ease-out 0s 1 shrink;
 }
 .front-content {
-    top: 0;
     left: 0;
     position: relative;
     display: block;
-    height: 100%;
     overflow-y: scroll;
+    animation: 0.5s ease-out 0s 1 fadeout;
+    height: 10%;
+    opacity: 0;
 }
 .slide {
     top: 0;

@@ -1,9 +1,10 @@
 currentPage = 0
+setTimeout(() => {  document.getElementsByClassName("front-content")[0].innerHTML = ""; }, 500);
 window.onload = scrollPosition()
 function scrollPosition() {
     var height = window.innerHeight
     var distScrolled = document.body.scrollTop
-    if (distScrolled >= height) {
+    if (distScrolled >= height * 0.2) {
         currentPage = 1
         document.getElementById("name").style.color = "#2C2C2C"
         document.getElementsByClassName("Logos")[0].style.fill = "#2C2C2C"
