@@ -1,5 +1,8 @@
 currentPage = 0
-setTimeout(() => {  document.getElementsByClassName("front-content")[0].innerHTML = ""; }, 500);
+setTimeout(() => {  
+    document.getElementsByClassName("front-content")[0].innerHTML = "";
+}, 500);
+
 window.onload = scrollPosition()
 function scrollPosition() {
     var height = window.innerHeight
@@ -15,9 +18,9 @@ function scrollPosition() {
         document.getElementById("name").style.color = "#FFFFFF"
         document.getElementsByClassName("Logos")[0].style.fill = "#FFFFFF"
         document.getElementsByClassName("Logos")[1].style.fill = "#FFFFFF"
-        document.getElementsByClassName("next-page")[0].style.display = "block"
+        //document.getElementsByClassName("next-page")[0].style.display = "block"
     }
-    if (distScrolled > 80) {
-        document.getElementsByClassName("next-page")[0].style.display = "none"
-    }
+    // if (distScrolled > 80) {
+    //     document.getElementsByClassName("next-page")[0].style.display = "none"
+    // }
 }
