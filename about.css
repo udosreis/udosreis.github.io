@@ -259,7 +259,7 @@ header {
     text-align: left;
     line-height: 26px;
 }
-.ddetails .h3 {
+.ddetails .h3 details summary {
     font-family: "Avenir Next";
     font-size: 14px;
     text-align: left;
