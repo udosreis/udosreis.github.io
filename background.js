@@ -24,6 +24,8 @@ function animBckg() {
         document.getElementsByClassName("backgroundc")[0].style.backgroundImage = "radial-gradient(closest-side at 42% 38%, #081F40 20%, #041022 80%)"
         document.getElementsByClassName("background2")[0].style.opacity = 1
     }
+    document.getElementsByClassName("backgroundc")[0].style.backgroundImage = "linear-gradient(0deg, #0064FF 0%, #00D0FF 100%)"
+    document.getElementsByClassName("background2")[0].style.opacity = 0
 }
 
 //The following was taken from: Copyright (c) 2019 by Fabio Ottaviani (https://codepen.io/supah/pen/RrzREx)
@@ -36,7 +38,7 @@ var lFollowX = 0,
 function animate() {
     x += (lFollowX - x) * friction;
     y += (lFollowY - y) * friction;
-  
+
     translate = 'translate(' + x + 'px, ' + y + 'px) scale(1.1)';
 
     $('.backgroundc').css({
@@ -47,7 +49,7 @@ function animate() {
     window.requestAnimationFrame(animate);
 }
 
-$(window).on('mousemove click', function(e) {
+$(window).on('mousemove click', function (e) {
     var lMouseX = Math.max(-100, Math.min(100, $('.backgroundc').width() / 2 - e.clientX));
     var lMouseY = Math.max(-100, Math.min(100, $('.backgroundc').height() / 2 - e.clientY));
     lFollowX = (20 * lMouseX) / 100;
